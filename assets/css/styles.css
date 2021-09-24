@@ -462,19 +462,17 @@ img {
 
 .skills__logo {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap:wrap;
   width: 100%;
   align-items: center;
   justify-content: space-around;
 }
 
 .skills__logo-img {
-  width: 100px;
-  height: 100px;
-  /* padding: 8px; */
-  border-radius: 8px;
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  width: 90px;
+  height: 90px;
   margin: 8px;
+  border-radius: 8px;
 }
 
 @media screen and (max-width: 768px) {
@@ -495,3 +493,5 @@ img {
     padding: 0 8px;
   }
 }
+
+
