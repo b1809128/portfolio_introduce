@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    color: #2c69a5;
+    background-color: #525659;
+}
