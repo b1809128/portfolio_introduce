@@ -1,9 +1,15 @@
-*{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
 
-body{
-    margin: 0;
-    color: #2c69a5;
-    background-color: #525659;
+body {
+  margin: 0;
+  color: #000;
+  background-color: #525659;
+}
+
+h1,
+h3 {
+  color: #71b8ff;
+  margin:10px 0;
 }
